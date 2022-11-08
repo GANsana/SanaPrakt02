@@ -14,3 +14,5 @@
 - [x] GitHub
 - [ ] GitLab
 - [ ] BitBucket 
+
+Виконав: Івлієв Артем
